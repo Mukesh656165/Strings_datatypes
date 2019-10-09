@@ -61,3 +61,9 @@ var = 'Why so serius'
 print(f'Joker says {var}')
 print(f"joker says {var}")
 print(f'''joker says {var}''')
+
+#delete string
+a = 'jokovik'
+print(a)
+del(a)
+print(a)
